@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="175" src="https://user-images.githubusercontent.com/84126267/189583293-e2f327b2-9dc4-4118-83e0-bc122da5dcff.png"  />
+</div>
+
 <h1 align="center">Hi, I'm Harsh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -30,6 +34,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh5ingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img align="right" height="250" src="https://camo.githubusercontent.com/bef14fed80577c9297fe247a7740e66213a3ce956008ddd8a66e1c2de638ec1b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f664f443054424c4b51673841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966"  />
+
 
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
