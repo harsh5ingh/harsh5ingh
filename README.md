@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5ingh" /> </p>
 
 <br>
-🌱 I’m currently learning **Javascript** <br>
+🌱 I’m currently learning <b>Javascript</b> <br>
 💬 Ask me about C, C++, HTML, CSS
-📫 How to reach me **harrsh0502@gmail.com**
+📫 How to reach me <b>harrsh0502@gmail.com</b>
 
 
 ## 🌐 Socials:
