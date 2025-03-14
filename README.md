@@ -12,8 +12,8 @@
 
 <br>
 🌱 I’m currently learning <b>Javascript</b> <br>
-💬 Ask me about C, C++, HTML, CSS
-📫 How to reach me <b>harrsh0502@gmail.com</b>
+💬 Ask me about C, C++, HTML, CSS <br>
+📫 How to reach me <b>harrsh0502@gmail.com</b> <br>
 
 
 ## 🌐 Socials:
