@@ -3,14 +3,17 @@
 </div>
 
 <h1 align="center">Hi, I'm Harsh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5ingh" /> </p>
 
-<br>🌱 I’m currently learning Javascript and DSA<br>💬 Ask me about C, C++, HTML, CSS
+<br>
+🌱 I’m currently learning **Javascript** <br>
+💬 Ask me about C, C++, HTML, CSS
+📫 How to reach me **harrsh0502@gmail.com**
 
 
 ## 🌐 Socials:
@@ -22,6 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=harsh5ingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh5ingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh5ingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🎖️ Badges:
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh5ingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
