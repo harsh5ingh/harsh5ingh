@@ -13,8 +13,6 @@
 <br>
 🌱 I’m currently learning <b>Javascript</b> <br>
 💬 Ask me about  <b>C, C++, HTML, CSS</b> <br>
-📫 How to reach me harrsh0502@gmail.com <br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.5ingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh5ingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harrsh0502@gmail.com) 
