@@ -80,13 +80,3 @@
 </picture>
 
 
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/snake.svg" alt="snake animation" />
-  </picture>
-</p>
-
