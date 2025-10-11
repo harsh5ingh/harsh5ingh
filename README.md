@@ -80,16 +80,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/harsh5ingh/harsh5ingh/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harsh5ingh&icon=0&color=0" />
-</p>
 
 ## 🐍 Contribution Snake
 <p align="center">
