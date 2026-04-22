@@ -25,9 +25,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harsh.5ingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh5ingh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrsh0502@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harrshdev52@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrshdev52@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh5ingh)
+[![Location](https://img.shields.io/badge/📍-Bhopal,_India-2ea44f?style=flat-square)](#)
 
 </div>
 
