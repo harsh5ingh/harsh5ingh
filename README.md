@@ -17,7 +17,7 @@
 - 💻 Passionate about **Frontend Development**
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**
 - 🚀 Building projects and improving daily
-- 📫 Reach me at: **harrsh0502@gmail.com**
+- 📫 Reach me at: **harrshdev52@gmail.com**
 
 ---
 
