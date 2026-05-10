@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Aspiring+TechnoPhile;Open+for+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Open+for+Internships" />
 
 
 </div>
@@ -19,7 +19,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750918-6fcb06f5-1e6b-4f9f-bbcb-4b6ecfcfef67.gif" width="250">
 </div>
 
-# 💫 About Me
+<table>
+  <tr>
+    <td>
+
+<h1>💫 About Me</h1>
 
 - 🎓 B.Tech CSE (Cybersecurity Specialization)
 - 🌱 Currently learning **JavaScript, React & DSA**
@@ -27,6 +31,15 @@
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**
 - 🚀 Building projects and improving daily
 - 📫 Reach me at: **harrshdev52@gmail.com**
+
+I am dedicated to growing as a developer, contributing to open-source, and exploring cloud and Cybersecurity to shape the future of the web.
+
+</td>
+    <td>
+      <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
