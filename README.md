@@ -6,13 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Harsh;AI+Engineer+%26+Backend+Developer+⚡;Building+AI+Agents+%26+RAG+Systems+🤖;Cybersecurity+Student+🔐" />
 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Open+for+AI+%26+Backend+Internships" />
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=harsh5ingh&style=for-the-badge&color=blueviolet)
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Open+for+AI+%26+Backend+Internships" />
 
 </div>
 
