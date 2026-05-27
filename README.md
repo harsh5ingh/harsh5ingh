@@ -1,15 +1,18 @@
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Harsh
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Harsh Kumar
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:2ac3de&height=2" width="100%"/>
-<div align="center">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harsh;Frontend+Developer+💻;Cybersecurity+Enthusiast+🔐;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Harsh;AI+Engineer+%26+Backend+Developer+⚡;Building+AI+Agents+%26+RAG+Systems+🤖;Cybersecurity+Student+🔐" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=harsh5ingh&style=for-the-badge&color=blueviolet)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Open+for+Internships" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Open+for+AI+%26+Backend+Internships" />
 
 </div>
 
@@ -25,14 +28,17 @@
 
 <h1>💫 About Me</h1>
 
-- 🎓 B.Tech CSE (Cybersecurity Specialization)
-- 🌱 Currently learning **JavaScript, React & DSA**
-- 💻 Passionate about **Frontend Development**
-- 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🚀 Building projects and improving daily
+- 🎓 B.Tech CSE Student (Cybersecurity Specialization)
+- 🤖 Building AI Agents, RAG Systems & Backend Applications
+- ⚡ Focused on AI Engineering & Scalable Backend Systems
+- 🧠 Working with LangGraph, FastAPI, PostgreSQL, Redis & Qdrant
+- 🔐 Interested in Cybersecurity & Intelligent Automation
+- 🚀 Building projects and learning continuously
+- ⚙️ Interested in backend architecture, AI orchestration & scalable systems
+- 💼 Open to AI Engineering, Backend Development & Internship Opportunities
 - 📫 Reach me at: **harrshdev52@gmail.com**
 
-I am dedicated to growing as a developer, contributing to open-source, and exploring cloud and Cybersecurity to shape the future of the web.
+I enjoy building AI-powered applications, backend systems, and agentic workflows using modern tools and scalable architectures.
 
 </td>
     <td>
@@ -55,48 +61,45 @@ I am dedicated to growing as a developer, contributing to open-source, and explo
 
 ---
 
-<h3 align="center">💻 Programming Languages</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</div>
+# ⚡ Tech Stack
 
-<h3 align="center">🌐 Frameworks & Web Technologies</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+<p align="center">
+  Building scalable AI systems, agent workflows & backend architectures ⚡
+</p>
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</div>
 
-<h3 align="center">🗄️ Databases</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-</div>
+## 💻 Languages
 
-<h3 align="center">🛠️ Tools, Cloud & OS</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+
+<br><br>
+
+## 🤖 AI Engineering & Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,docker" />
+
+<br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agents-FF6B6B?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt-Engineering-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-APIs-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
+</p>
+<br><br>
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" />
+
 </div>
 
 ---
@@ -133,14 +136,6 @@ I am dedicated to growing as a developer, contributing to open-source, and explo
 
 </div>
 
-<h3 align="center">🌐 3D Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-  <!-- <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> -->
-
 <h3 align="center">🎖️ Holopin Badges (Hacktoberfest + Open Source)</h3>
 <div align="center">
   <a href="https://holopin.io/@harsh5ingh#badges">
@@ -160,13 +155,14 @@ I am dedicated to growing as a developer, contributing to open-source, and explo
 
 ---
 
+<!-- 
 # ✍️ Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+</div> *
 
 ---
 
@@ -176,6 +172,11 @@ I am dedicated to growing as a developer, contributing to open-source, and explo
 
 ![](https://komarev.com/ghpvc/?username=harsh5ingh&style=for-the-badge&color=blueviolet)
 
+</div>
+
+-->
+<div align="center">
+  
 ### ⭐ Thanks for visiting my profile!
 
 </div>
