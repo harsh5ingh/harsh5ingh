@@ -15,90 +15,38 @@
 
 </div>
 
+<div align="center">
+
+<table border="1" cellpadding="14" cellspacing="0">
+<tr>
+
+<td align="center" valign="middle" width="460">
+
+<img src="./spiderman-logo-reference-animated.svg"
+     width="460"
+     height="480"
+     alt="Animated Spider-Man Logo" />
+
+</td>
+
+<td align="center" valign="middle" width="610">
+
+<img src="./info-card.svg"
+     width="610"
+     height="478"
+     alt="Harsh Kumar Info Card" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750918-6fcb06f5-1e6b-4f9f-bbcb-4b6ecfcfef67.gif" width="250">
-</div>
-
-<table>
-  <tr>
-    <td>
-
-<h1>💫 About Me</h1>
-
-- 🎓 B.Tech CSE Student (Cybersecurity Specialization)
-- 🤖 Building AI Agents, RAG Systems & Backend Applications
-- ⚡ Focused on AI Engineering & Scalable Backend Systems
-- 🧠 Working with LangGraph, FastAPI, PostgreSQL, Redis & Qdrant
-- 🔐 Interested in Cybersecurity & Intelligent Automation
-- 🚀 Building projects and learning continuously
-- ⚙️ Interested in backend architecture, AI orchestration & scalable systems
-- 💼 Open to AI Engineering, Backend Development & Internship Opportunities
-- 📫 Reach me at: **harrshdev52@gmail.com**
-
-I enjoy building AI-powered applications, backend systems, and agentic workflows using modern tools and scalable architectures.
-
-</td>
-    <td>
-      <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="GIF" />
-    </td>
-  </tr>
-</table>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-harrshdev52@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrshdev52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh5ingh)
-[![Location](https://img.shields.io/badge/📍-Bhopal,_India-2ea44f?style=flat-square)](#)
-
-</div>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-  Building scalable AI systems, agent workflows & backend architectures ⚡
-</p>
-
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-
-<br><br>
-
-## 🤖 AI Engineering & Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,docker" />
-
-<br><br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Agents-FF6B6B?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt-Engineering-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-APIs-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
-</p>
-<br><br>
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" />
-
 </div>
 
 ---
@@ -117,23 +65,6 @@ I enjoy building AI-powered applications, backend systems, and agentic workflows
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=harsh5ingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=harsh5ingh&theme=tokyo-night&hide_border=true)
-
-</div>
 
 <h3 align="center">🎖️ Holopin Badges (Hacktoberfest + Open Source)</h3>
 <div align="center">
