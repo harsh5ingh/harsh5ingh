@@ -4,14 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Harsh;AI+Engineer+%26+Backend+Developer+⚡;Building+AI+Agents+%26+RAG+Systems+🤖;Cybersecurity+Student+🔐" />
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Open+for+AI+%26+Backend+Internships" />
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:2ac3de&height=2" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=harsh5ingh&style=for-the-badge&color=blueviolet)
+<br>
 
 </div>
 
@@ -40,14 +37,13 @@
 
 </tr>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:2ac3de&height=2" width="100%"/>
 
 </div>
 
----
-
-<div align="center">
+<!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750918-6fcb06f5-1e6b-4f9f-bbcb-4b6ecfcfef67.gif" width="250">
-</div>
+</div> -->
 
 ---
 
@@ -77,11 +73,13 @@
 
 # 🐍 Snake Eating Contributions
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/harsh5ingh/harsh5ingh/output/github-snake-light.svg">
 </picture>
+</div>
 
 ---
 
@@ -105,7 +103,12 @@
 </div>
 
 -->
+
+
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=harsh5ingh&style=for-the-badge&color=blueviolet)
+<br>
   
 ### ⭐ Thanks for visiting my profile!
 
